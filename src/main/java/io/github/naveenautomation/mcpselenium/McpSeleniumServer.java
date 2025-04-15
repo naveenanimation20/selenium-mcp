@@ -33,6 +33,13 @@ import java.util.Map;
 import java.util.UUID;
 import java.util.concurrent.ConcurrentHashMap;
 
+
+/**
+ * 
+ * @author naveenautomationlabs
+ *	Date: 15th Apr 2025
+ */
+
 public class McpSeleniumServer {
 	private static final ObjectMapper objectMapper = new ObjectMapper();
 	private static final Map<String, WebDriver> drivers = new ConcurrentHashMap<>();

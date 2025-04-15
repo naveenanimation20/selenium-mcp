@@ -23,6 +23,12 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.SwingUtilities;
 
+/**
+ * 
+ * @author naveenautomationlabs
+ *	Date: 15th Apr 2025
+ */
+
 public class AdvancedMcpClient extends JFrame {
 	private static final String JAR_PATH = "target/selenium-mcp-0.1.0-jar-with-dependencies.jar"; // Update this path
 	private Process serverProcess;

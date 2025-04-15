@@ -7,6 +7,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 
+ * @author naveenautomationlabs
+ *	Date: 15th Apr 2025
+ */
+
+/**
  * Launcher for the MCP Selenium Server
  * This class provides a simple way to start the server from the command line
  */
