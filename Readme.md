@@ -124,6 +124,10 @@ javac -d target/classes src/main/java/io/github/naveenautomation/mcpselenium/Adv
 java -cp target/classes io.github.naveenautomation.mcpselenium.AdvancedMcpClient
 ```
 
+<img width="1711" alt="Screenshot 2025-04-15 at 4 34 37 PM" src="https://github.com/user-attachments/assets/4f21d03d-dda1-4040-a96e-737709422c63" />
+
+
+
 #### Using the GUI
 
 The GUI client automatically starts the MCP Selenium server when launched. The interface includes:
